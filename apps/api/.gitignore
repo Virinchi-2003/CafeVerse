@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Production build outputs
+dist/
+
+# SQLite Databases & Logs
+*.db
+*.sqlite
+data/*.db
+*.log
+.env
+.DS_Store
